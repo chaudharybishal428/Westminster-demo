@@ -1,3 +1,3 @@
 # Westminster-demo
 This is my first repository 
-Author-Bishal Chaudhary
+Author - Bishal Chaudhary
